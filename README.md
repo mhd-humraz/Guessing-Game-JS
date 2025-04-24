@@ -33,6 +33,9 @@ The game will tell whether the guess is too high, too low, or correct.
 The goal is to guess the number in as few attempts as possible.
 
 # How to Run the Game:
+
+https://mhd-humraz.github.io/Guessing-Game-JS/
+           or
 Download or clone the repository.
 
 Open the index.html file in any web browser to start playing.
